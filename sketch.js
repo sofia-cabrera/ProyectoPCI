@@ -6,8 +6,8 @@ let velX, velY;
 
 //variables del portal
 let n = 256;
-let minRad = 30;
-let maxRad = 300;
+let minRad = 300;
+let maxRad = 1000;
 let nfAng = 0.05;
 let nfTime = 0.005;
 
